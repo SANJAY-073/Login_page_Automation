@@ -1,0 +1,4 @@
+com\testing\base\BaseTest.class
+com\testing\GoogleTitleTest.class
+com\testing\pages\LoginPage.class
+com\testing\tests\LoginTest.class
